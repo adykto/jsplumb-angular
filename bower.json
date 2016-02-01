@@ -20,5 +20,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "jsPlumb": "jsplumb#~2.0.6"
+  }
 }
