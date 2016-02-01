@@ -22,6 +22,9 @@
     "tests"
   ],
   "devDependencies": {
-    "jsPlumb": "jsplumb#~2.0.6"
+    "jsPlumb": "jsplumb#~2.0.6",
+    "angular": "~1.4.9",
+    "angular-resource": "~1.4.9",
+    "jquery": "~2.2.0"
   }
 }
