@@ -20,8 +20,10 @@
         }
     },
     "serve": {
-        "src": [
+        "root": [
             "build/"
-        ]
+        ],
+        "hostname": "127.0.0.1",
+        "port": 8088
     }
 }
