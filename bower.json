@@ -1,0 +1,24 @@
+{
+  "name": "jsplumb-angular",
+  "description": "JSPlumbToolkit + AngularJS test",
+  "main": "build/index.html",
+  "authors": [
+    "Alonso Mendez"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "jsplumb",
+    "jsplumbtoolkit",
+    "angularjs"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

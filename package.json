@@ -1,0 +1,16 @@
+{
+  "name": "jsplumb-angular",
+  "version": "1.0.0",
+  "description": "JSPlumbToolkit + AngularJS test",
+  "main": "build/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsplumb",
+    "jsplumbtoolkit",
+    "angularjs"
+  ],
+  "author": "Alonso Mendez",
+  "license": "ISC"
+}
