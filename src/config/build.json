@@ -1,0 +1,27 @@
+{
+    "assets": {
+        "src": [
+            "./src/assets/**"
+        ],
+        "dest": "./build/",
+        "watch": "./src/assets/**/**"
+    },
+    "scripts": {
+        "src": [
+            "./src/scripts/app.js"
+        ],
+        "build": "main.min.js",
+        "dest": "./build/js/",
+        "watch": ["./src/scripts/**/*.js"],
+
+        "options": {
+            "insertGlobals": true,
+            "debug": false
+        }
+    },
+    "serve": {
+        "src": [
+            "build/"
+        ]
+    }
+}
