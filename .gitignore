@@ -3,6 +3,7 @@ bower_components/
 node_modules/
 /out/
 .idea_modules/
+build/
 
 logs
 *.log
